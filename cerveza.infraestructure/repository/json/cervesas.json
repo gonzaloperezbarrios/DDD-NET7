@@ -1,0 +1,47 @@
+[
+  {
+    "tipo": "IPA (India Pale Ale)",
+    "color": "Ámbar claro a dorado oscuro",
+    "sabor": "Amargo, a menudo con notas de frutas cítricas y resinosas",
+    "descripcion": "Una cerveza fuertemente lupulada con un alto contenido de alcohol, originaria de Inglaterra y popular en todo el mundo.",
+    "alcohol": "5% - 10%",
+    "color_porcentaje": 65,
+    "ingredientes": ["Malta Pale", "Lúpulo", "Levadura"]
+  },
+  {
+    "tipo": "IPA (test)",
+    "color": "Ámbar claro a dorado oscuro",
+    "sabor": "Amargo, a menudo con notas de frutas cítricas y resinosas",
+    "descripcion": "Una cerveza fuertemente lupulada con un alto contenido de alcohol, originaria de Inglaterra y popular en todo el mundo.",
+    "alcohol": "5% - 10%",
+    "color_porcentaje": 65,
+    "ingredientes": ["Malta Pale", "Lúpulo", "Levadura"]
+  },
+  {
+    "tipo": "Belgian Ale",
+    "color": "Dorado claro a ámbar oscuro",
+    "sabor": "Dulce y afrutado, a menudo con notas de especias",
+    "descripcion": "Una cerveza de alta fermentación, elaborada con levadura belga y maltas especiales, que se caracteriza por su sabor complejo y suave.",
+    "alcohol": "6% - 10%",
+    "color_porcentaje": 50,
+    "ingredientes": ["Malta Pilsen", "Malta Caramelo", "Levadura Belga"]
+  },
+  {
+    "tipo": "Stout",
+    "color": "Marrón oscuro a negro opaco",
+    "sabor": "Tostado y cremoso, con notas de café y chocolate",
+    "descripcion": "Una cerveza elaborada con maltas tostadas, que le dan su color oscuro y su sabor característico. La Stout es una cerveza densa y cremosa, perfecta para el invierno.",
+    "alcohol": "4% - 8%",
+    "color_porcentaje": 90,
+    "ingredientes": ["Malta Tostada", "Malta Negra", "Lúpulo", "Levadura"]
+  },
+  {
+    "tipo": "Weissbier",
+    "color": "Dorado claro a amarillo turbio",
+    "sabor": "Ligero y refrescante, con notas de plátano y clavo",
+    "descripcion": "Una cerveza de trigo alemana, que se caracteriza por su sabor afrutado y suave. La Weissbier es una cerveza muy popular en Alemania y es perfecta para el verano.",
+    "alcohol": "4% - 6%",
+    "color_porcentaje": 20,
+    "ingredientes": ["Malta de Trigo", "Malta Pilsen", "Levadura de Trigo"]
+  }
+]
