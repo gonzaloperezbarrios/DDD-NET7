@@ -4,6 +4,9 @@
 [![video-youtube](__doc__/miniatura.png)](https://youtu.be/0CEcZ_Rdrd0)
 
 
+
+> <img src="__doc__/PDF-ICON.png" alt= “presentacion” width="25" height="25"> Descargar presentación
+
 > Domain Driven Design Technical (DDD) en .NET 7 con ChatGPT
 
 - 0:00 Presentación 
